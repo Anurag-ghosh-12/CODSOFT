@@ -1,4 +1,5 @@
 Machine Learning Projects Repository
+
 Welcome to the Machine Learning Projects Repository! This repository houses three distinct projects that demonstrate various aspects of machine learning and data science. Whether you're a beginner looking to explore the basics or an experienced practitioner seeking examples for reference, this repository has something for everyone.
 
 Projects Overview
